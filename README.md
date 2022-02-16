@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mac</h1>
 <h3 align="center">A passionate Information Technology Professional from Baltimore, MD</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mackiser&label=Profile%20views&color=0e75b6&style=flat" alt="mackiser" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mackiser&label=Profile%20views&color=0e75b6&style=flat" alt="mackiser" /> </p>
 
 - 🔭 I’m currently working on [my personal blog](https://mackiser.github.io)
 

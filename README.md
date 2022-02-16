@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mackiser&label=Profile%20views&color=0e75b6&style=flat" alt="mackiser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mackiser" alt="mackiser" /></a> </p>
-
 - 🔭 I’m currently working on [my personal blog](https://mackiser.github.io)
 
 - 🌱 I’m currently learning **Python, MongoDB, Hugo**

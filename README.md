@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my personal blog](https://mackiser.github.io)
 
-- 🌱 I’m currently learning **Python, MongoDB, Hugo**
+- 🌱 I’m currently learning **Python, Comptia A+, Network+**
 
 - 🤝 I’m looking for help with [Python](https://github.com/topics/python)
 
